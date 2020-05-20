@@ -1,0 +1,4 @@
+1. Input Height from the user
+2. Check if height < 1 or <8 then return to last step
+3. Make a loop from 1 to Height
+     1. Print the value of i in each iteration and a newline also.
